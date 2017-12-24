@@ -1,0 +1,18 @@
+PODS:
+  - Bolts/Tasks (1.8.4)
+  - Parse (1.15.3):
+    - Bolts/Tasks (~> 1.8)
+  - SVProgressHUD (2.2.2)
+
+DEPENDENCIES:
+  - Parse
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Parse: cdc0f1f975ee8be0409e66f21b05df4ae067047c
+  SVProgressHUD: 59b2d3dabacbd051576d21d32293ca7228dc18b0
+
+PODFILE CHECKSUM: c50965336fec65c0402af0bba35a30bbe9676f65
+
+COCOAPODS: 1.1.1
